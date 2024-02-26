@@ -1,6 +1,4 @@
-# L-fter-ansteuern-EIS-2024-Sommer
-Sommer 2024 Lüfter ansteuern
-Bei fragen meldet euch bei mir 
+# L-fter-ansteuern-
 
 Eine mögliche schleife um die temperatur bzw. Luftfeuchtikeit abzufragen und
 wenn das stimmt wird je nach bereich leds und lüfter angestellt.
