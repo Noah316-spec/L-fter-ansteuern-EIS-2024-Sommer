@@ -3,7 +3,7 @@
 Eine mögliche schleife um die temperatur bzw. Luftfeuchtikeit abzufragen und
 wenn das stimmt wird je nach bereich leds und lüfter angestellt.
 
-while(1)
+```while(1)
 {
         adc_humid = adc_readvoltage(0);
         _delay_ms(10);
@@ -20,4 +20,4 @@ while(1)
         }else{
             leds = 0b11011111;
             }
-}
+}```
